@@ -1,0 +1,15 @@
+# Ignore Maven POM files
+pom.xml
+
+# Ignore IntelliJ IDEA module files
+*.iml
+*.idea
+
+# Ignore target directories and their contents
+**/target/
+
+# Ignore test directories and their contents
+**/test/
+
+# Ignore YAML files
+*.yml
